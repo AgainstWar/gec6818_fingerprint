@@ -3,7 +3,7 @@
 基于 粤嵌® gec6818 开发板的指纹考勤系统的硬件部分和数据库部分代码
 
 FileTree:
-
+```
  ┣ sqlite
  ┃ ┣ CMakeLists.txt
  ┃ ┣ shell.c
@@ -23,5 +23,5 @@ FileTree:
  ┣ sql.h
  ┣ TimerEvent.c //计时器（多线程）
  ┗ TimerEvent.h
-
+```
  
