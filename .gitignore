@@ -1,0 +1,4 @@
+.vscode
+.idea
+/cmake*/
+./ui_src/SquareLine_Project_events.py
