@@ -1,7 +1,7 @@
 # gec6818 指纹考勤系统
 
 基于 粤嵌® gec6818 开发板的指纹考勤系统的硬件部分和数据库部分代码
-
+```
 gec6818_fingerprint
 ├─.gitignore
 ├─AS608_command.h
@@ -22,3 +22,4 @@ gec6818_fingerprint
 |   ├─sqlite3.h
 |   ├─sqlite3ext.h
 |   └test.sql
+```
